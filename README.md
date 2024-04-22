@@ -6,6 +6,7 @@ In the Battleships project I created myself quite a nice little "library" of UI 
 
 After programming all the UI components I was too exhausted. I had a little C++ ptsd and decided to discontinue the project to replenish my sanity. It has the editor layout and the components work but it doesn't do anything. The <b>main highlight</b> of the project are the UI components. They are not used much but they work and the code is nice taking into consideration that I was a noob at that time.
 
+An actual implementation of the aim of this project is in the [RobotDrawerEditorCsharp](https://github.com/TomasZilinek/RobotDrawerEditorCsharp) C# project.
 
 ## Install
 
